@@ -1,0 +1,7 @@
+{
+  "name": "Mutirao",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
